@@ -1,31 +1,41 @@
-<div align="center">
-  
-## About
-Hola, soy Juan Manuel 
+# 👋 ¡Hola! Soy [Tu Nombre]
 
--------------------
+## 👨‍💻 Sobre mí
 
-## Contact
-<a href="https://www.instagram.com/LachlanDev/">![Instagram](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LachlanDev">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.com/invite/w7B5nKB">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
-</a> ![Discord](https://img.shields.io/badge/LachlanDev%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional de Colombia** y cuento con un título como **Técnico en Sistemas**.
 
-------------------- ![Demo en acción](https://i.imgur.com/abcd123.gif)
+Estoy profundamente interesado en la **tecnología**, el **aprendizaje automático** y la **inteligencia artificial**. Me gusta desarrollar proyectos que mezclen lógica, diseño y herramientas modernas.  
+Soy curioso, autodidacta y veo el aprendizaje como una herramienta para transformar ideas en soluciones reales.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Lenguajes y herramientas:
+---
 
- 
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-  
-------------------- <p align="center"> <img src="https://profile-counter.glitch.me/{juanmanuel12182}/count.svg" alt="juanmanuel12182" /> </p>
-  
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=LachlanDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+## 🚀 Áreas de interés
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=LachlanDev&theme=radical&include_all_commits=true&count_private=true)
+- Inteligencia Artificial 🤖  
+- Desarrollo de software 💻  
+- Seguridad informática 🔒  
+- Matemáticas aplicadas 📐  
+- Sistemas distribuidos 🌐  
 
- <div>
+---
 
------
-Credits: [LachlanDev](https://github.com/LachlanDev)
+## 🧠 Tecnologías que manejo
 
-Last Edited on: 1/10/2021
+- Lenguajes: `Python`, `JavaScript`, `C++`, `Java`
+- Herramientas: `Git`, `Linux`, `VSCode`
+- Otros: Markdown, Bash, SQL
+
+---
+
+## 🎥 Mira uno de mis proyectos en acción
+
+![Demo de proyecto](assets/demo.gif)
+
+---
+
+## 📫 Cómo contactarme
+
+- 📧 Email: tuemail@ejemplo.com  
+- 💼 LinkedIn: [TuNombre](https://linkedin.com/in/tunombre)  
+- 🌐 Portafolio: [tusitio.com](https://tusitio.com)
+
