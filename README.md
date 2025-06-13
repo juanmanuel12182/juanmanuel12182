@@ -61,6 +61,13 @@
 
 
 <h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
+ <a id="programming-languages"></a>
+  
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=css,sublime,windows,github,linux,vscode,html,py" />
+</a>
+</a>
+
 
 <!--
 <p align="center">
