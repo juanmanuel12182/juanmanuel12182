@@ -58,13 +58,24 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
+## 🚀 Áreas de interés
+<img align="right" width="350" height="160" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
+- Artifical Intelligence 🤖 
+- Software Development 💻  
+- Cybersecurity 🔒    
+- Maths 📐  
+- Systems🌐  
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
- <a id="programming-languages"></a>
+<h3>Programing lenguages</h3>
   
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=css,sublime,windows,github,linux,vscode,html,py" />
+  <img src="https://skillicons.dev/icons?i=css,html,py" /> 
+ <h3>Tools</h3>
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=sublime,windows,github,linux,vscode" /> 
 </a>
 </a>
 
@@ -77,10 +88,4 @@
 </p>
 -->
 
-<h3>
-  <a id="programming-languages"></a>
-  <picture style="display: inline;">
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="30px">
-  </picture>
-  Programming Languages
-</h3>  
+
