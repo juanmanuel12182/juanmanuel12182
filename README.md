@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<h1 id="top" align="center">Hi, I'm Ahmed Nassar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
+<h1 id="top" align="center">Hi, I'm Juan Manuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Develper;Frontend+Develper;Backend+Develper;Senior+CS+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Frontend+Develper" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -70,65 +70,16 @@
 
 
 
-<h2><a id="internship-experience"></a>💼 Internship Experience</h2>
-
-| 🏢 Company | 💼 Role | ⏰ Duration |
-| --- | --- | --- |
-| [Orange Digital Center](https://www.orangedigitalcenters.com/country/EG/home) | Software Engineer Intern | Sep 2024 - Oct 2024 |
-| [Arab African International Bank](https://www.aaib.com/) | Backend Developer Intern | Jul 2024 - Aug 2024 | 
-| [Nokia](https://www.nokia.com/) | Software Engineer Intern | Aug 2023 - Oct 2023 |
-| [Banque Misr](https://www.banquemisr.com/) | Frontend Developer Intern | Jul 2023 - Aug 2023 |
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-<h2><a id="open-source"></a>🤝 Open Source Contributions</h2>
-
-| 📂 Repository | 💡 Contribution | 📝 Type | 🔗 PR | 📊 Status |
-| --- | --- | --- | --- | --- |
-| [Django](https://github.com/django/django) | Deprecated HTTP as the default protocol in `urlize` and `urlizetrunc` | Optimization | [#19240](https://github.com/django/django/pull/19240) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
-| ↳ | Fixed contenttypes `shortcut()` view crash for a UUIDField pk | Bug | [#19296](https://github.com/django/django/pull/19296) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
-| ↳ | Fixed test classes with `@translation.override` decorator | Bug | [#19358](https://github.com/django/django/pull/19358) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
-| ↳ | Added docs for testing callable storage in FileField | Optimization | [#19349](https://github.com/django/django/pull/19349) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
-| ↳ | Updated docs on gettext f-string support limitations | Documentation | [#19348](https://github.com/django/django/pull/19348) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
-| ↳ | Optimized no-op migration performance on SQLite | Optimization | [#19278](https://github.com/django/django/pull/19278) | ![Static Badge](https://img.shields.io/badge/Open-2da44e) |
-| [Upwork Clone Frontend](https://github.com/activecourses/upwork-clone-frontend) | Set up Husky pre-commit hooks | DevOps | [#31](https://github.com/activecourses/upwork-clone-frontend/pull/31) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
-| ↳ | Fixed props validation, line endings, and formatting | Code Style | [#32](https://github.com/activecourses/upwork-clone-frontend/pull/32) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
-
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
 
-<h2><a id="training-experience"></a>📚 Training Experience</h2>
 
-| 🏢 Organization | 💼 Role | ⏰ Duration | 📄 Certificate |
-| --- | --- | --- | --- |
-| [Information Technology Institute](https://iti.gov.eg/home) | Frontend using React Trainee | Sep 2024 - Sep 2024 | [Certificate](certificates/training/iti-react.pdf) |
-| ↳ | Web Development Trainee | Aug 2024 - Sep 2024 | [Certificate](certificates/training/iti-web-development.pdf) |
-| ↳ | Full Stack Web Development using Python Trainee | Jul 2024 - Aug 2024 | [Certificate](certificates/training/iti-python.pdf) |
-| [Coach Academy](https://coachacademy.club/) | Competitive Programming Trainee | Nov 2023 - April 2024 | [Certificate](certificates/training/coach-academy.pdf) |
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<h2><a id="volunteering-experience"></a>🤝 Volunteering Experience</h2>
 
-| 🏢 Student Clubs | 💼 Role | 📄 Certificates |
-| --- | --- | --- |
-| [GDSC Cairo University](https://www.linkedin.com/company/dsccairo/) | Software Developer Member | [Certificate](certificates/volunteering/gdsc-cu.pdf) |
-| [GDSC Zagazig University](https://www.linkedin.com/company/google-dsc-zagazig/) | C++ Developer Member | [Certificate](certificates/volunteering/gdsc-zag.pdf) |
-| [GDSC Al-Azhar University](https://www.linkedin.com/company/gdgcalazhar/) | C++ Developer Member | [Certificate](certificates/volunteering/gdsc-azhar.png) |
-| [ACES](https://www.linkedin.com/company/acesegypt/) | IT Member | [Certificate](certificates/volunteering/aces.pdf) |
-| [Open Source Community](https://www.linkedin.com/company/osc---open-source-community/) | Web Developer Member | [Acceptance](certificates/others/acceptance-osc.jpeg) |
-| [SemiColon](https://www.linkedin.com/company/semicolon.org/) | Data Structure & Algorithms Head | [Core Team](certificates/others/core-team-semicolon.jpeg) |
-| [Enactus Modern Academy](https://www.linkedin.com/company/enactus-modern-academy/) | IT Member | [Acceptance](certificates/others/acceptance-enactus.jpeg) |
-| [GDSC Modern Academy](https://www.linkedin.com/company/gdg-campus-modern-academy-for-computer-science/) | Event Manager Member | [Certificate](certificates/volunteering/gdsc-ma.jpg) |
-| [Techne](https://www.linkedin.com/company/techne.me/) | Event Organizer | [Certificate 2023](certificates/volunteering/techne'23.pdf) \| [Certificate 2024](certificates/volunteering/techne'24.pdf) |
-| [Egypt Career Summit](https://www.linkedin.com/company/egypt-career-summit/) | Event Organizer | [Certificate](certificates/volunteering/ecs.png) |
-| [iCareer](https://www.linkedin.com/company/icareereg/) | Event Organizer | [Core Team](certificates/others/core-team-icareer.jpeg) |
-| [Startups Without Borders](https://www.linkedin.com/company/startups-without-borders-eg/) | Event Organizer | [Acceptance](certificates/others/acceptance-swb.jpeg) |
-| [MSP Tech Club Al-Azhar University](https://www.linkedin.com/company/msp-tech-club-al-azhar-university/) | Frontend Developer Member | [Acceptance](certificates/others/acceptance-msp.jpeg) |
-| [IEEENU CIS](https://www.linkedin.com/company/ieeenu-cis/) | AI Engineer Member | [Acceptance](certificates/others/acceptance-nu.jpeg) |
-| [IEEE ASUSB](https://www.linkedin.com/company/ieee-asusb/) | Fundraiser Member | [Acceptance](certificates/others/acceptance-asu.jpeg) |
 
 
 
