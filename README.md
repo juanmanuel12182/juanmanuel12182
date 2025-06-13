@@ -13,6 +13,7 @@ Hello, I am full stack developer, working on multiple open source projects, main
 
 ### Languages and Tools  
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
   
 -------------------
   
