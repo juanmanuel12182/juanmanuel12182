@@ -10,10 +10,7 @@ Hola, soy Juan Manuel
 </a> ![Discord](https://img.shields.io/badge/LachlanDev%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
-<br/>
-<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
 ### Languages and Tools  
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
