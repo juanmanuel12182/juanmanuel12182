@@ -26,7 +26,8 @@ Soy curioso, autodidacta y veo el aprendizaje como una herramienta para transfor
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src ="https://www.flaticon.es/icono-animado-gratis/html_8722703?term=html&page=1&position=2&origin=search&related_id=8722703" alt="icon" width="50" height="50" />
+  <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
+
   
 </div>
 
