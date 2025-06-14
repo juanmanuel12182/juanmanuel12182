@@ -28,7 +28,7 @@
 
 - 🎯 Focus on `Quality` over `Quantity`
 
-- 🔄 Repeat `Brainstorming`, `Coding`, and `Debugging`.
+- 🔄 Repeat `Cybersecurity`
 
 - ✨ Enjoy my GitHub profile.
 
@@ -58,8 +58,10 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-## 🚀 Áreas de interés
-<img align="right" width="350" height="160" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+## 🚀 Interesting Areas 
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' width="350" height="150" align='right'/>
+
 
 - Artifical Intelligence 🤖 
 - Software Development 💻  
@@ -69,8 +71,10 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
+
 <h3>Programming lenguages</h3>
-  
+
+<p><img align="right" height="350" width="400" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=css,html,py" /> 
  <h3>Tools</h3>
