@@ -53,7 +53,8 @@
 &nbsp;
 <a href="https://instagram.com/jmgc._.2206" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
 &nbsp;
-
+<a href="https://github.com/juanmanuel12182" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/github/github.svg" alt="Github" height="40" width="35" /></a>
+&nbsp;
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
@@ -109,5 +110,7 @@
   </a>
 </p>
 -->
-
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<h1></h1>
+ <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" heigth= "500" width="400">
 
