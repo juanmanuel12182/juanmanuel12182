@@ -84,6 +84,20 @@
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=sublime,github,vscode," /> 
    
+### Hacking Tools
+![Metasploit](https://img.shields.io/badge/Metasploit-4986B1?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-7C3BE4?style=for-the-badge&logo=nmap&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-DC143C?style=for-the-badge&logo=mimikatz&logoColor=white)
+![Responder](https://img.shields.io/badge/Responder-FF0000?style=for-the-badge&logo=ghost&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-3E6E93?style=for-the-badge&logo=sqlmap&logoColor=white)
+![XSSer](https://img.shields.io/badge/XSSer-000000?style=for-the-badge&logo=xss&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-22BB33?style=for-the-badge&logo=tenable&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-AA1111?style=for-the-badge&logo=jtr&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-333399?style=for-the-badge&logo=hydra&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-994422?style=for-the-badge&logo=hashcat&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-cc0000?style=for-the-badge&logo=bloodhound&logoColor=white)
+<br><br>
+Y muchas más!
   <h3>Operating systems</h3>
   <img src="https://skillicons.dev/icons?i=windows,linux,kali" /> 
 </a>
