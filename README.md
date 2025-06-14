@@ -53,8 +53,9 @@
 &nbsp;
 <a href="https://instagram.com/jmgc._.2206" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
 &nbsp;
-<a href="https://github.com/juanmanuel12182" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/github/github.svg" alt="Github" height="40" width="35" /></a>
-&nbsp;
+<a style="margin-left: 8px; text-decoration: none;" target="_blank" href="https://github.com/juanmanuel12182">
+		<img src="https://www.svgrepo.com/show/512317/github-142.svg" height="40" align ="center" width="35px">
+	</a>
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
