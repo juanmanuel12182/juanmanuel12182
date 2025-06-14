@@ -77,9 +77,11 @@
 <p><img align="right" height="350" width="400" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=css,html,py" /> 
+    
  <h3>Tools</h3>
- <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=sublime,github,vscode" /> 
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=sublime,github,vscode," /> 
+   
   <h3>Operating systems</h3>
   <img src="https://skillicons.dev/icons?i=windows,linux,kali" /> 
 </a>
