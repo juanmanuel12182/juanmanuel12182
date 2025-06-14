@@ -69,21 +69,33 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
-<h3>Programing lenguages</h3>
+<h3>Programming lenguages</h3>
   
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=css,html,py" /> 
  <h3>Tools</h3>
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=sublime,windows,github,linux,vscode" /> 
+  <img src="https://skillicons.dev/icons?i=sublime,github,vscode" /> 
+  <h3>Operating systems</h3>
+  <img src="https://skillicons.dev/icons?i=windows,linux,kali" /> 
 </a>
 </a>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 
+<div align="Center">
+
+| CtorW's Stats | Ultimate Streak |
+| ------------- | ------------- |
+| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=juanmanuel12182&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanmanuel12182&theme=onedark&hide_border=true) 
+
+| Most Lang |
+| ----------|
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmanuel12182&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 <!--
 <p align="center">
   <a href="https://skillicons.dev">
