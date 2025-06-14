@@ -49,7 +49,7 @@
 
 <a href="https://www.linkedin.com/in/juan-manuel-445396356/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
 &nbsp;
-<a href="https://wa.me/3216957355" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
+<a href="https://wa.me/+573142713850" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
 &nbsp;
 <a href="https://instagram.com/jmgc._.2206" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
 &nbsp;
