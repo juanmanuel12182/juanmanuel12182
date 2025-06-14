@@ -82,7 +82,7 @@
     
  <h3>Tools</h3>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=sublime,github,vscode," /> 
+  <img src="https://skillicons.dev/icons?i=sublime,github,vscode,bash" /> 
    
 ### Hacking Tools
 ![Metasploit](https://img.shields.io/badge/Metasploit-4986B1?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -97,7 +97,7 @@
 ![Hashcat](https://img.shields.io/badge/Hashcat-994422?style=for-the-badge&logo=hashcat&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/BloodHound-cc0000?style=for-the-badge&logo=bloodhound&logoColor=white)
 <br><br>
-Y muchas más!
+
   <h3>Operating systems</h3>
   <img src="https://skillicons.dev/icons?i=windows,linux,kali" /> 
 </a>
